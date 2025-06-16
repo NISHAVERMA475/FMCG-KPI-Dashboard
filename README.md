@@ -55,5 +55,6 @@ Impact:
 - Where can we take corrective actions to improve efficiency?
   
 8.Screenshots / Demos
+Dashboard looks like.
 ![FMCG KPI Dashboard](https://github.com/user-attachments/assets/e5878b14-fc8d-47d6-b8a0-18a621771923)
 
